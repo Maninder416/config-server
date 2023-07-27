@@ -1,2 +1,2 @@
-spring:
-  name: maninder
+server:
+  port: 9004
